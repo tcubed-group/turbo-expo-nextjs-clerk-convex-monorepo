@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@clerk/clerk-react": "^5.57.1",
-    "@clerk/nextjs": "^6.35.6",
+    "@clerk/nextjs": "^6.39.2",
     "@headlessui/react": "^2.2.9",
     "@heroicons/react": "^2.2.0",
     "@packages/backend": "*",
@@ -21,7 +21,7 @@
     "class-variance-authority": "^0.7.0",
     "convex": "^1.29.3",
     "lucide-react": "^0.555.0",
-    "next": "^16.0.10",
+    "next": "^16.2.3",
     "react": "^19.2.2",
     "react-dom": "^19.2.1",
     "tailwind-merge": "^3.4.0"
